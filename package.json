@@ -1,0 +1,8 @@
+{
+  "name": "netlify-bb",
+  "version": "10.30.11",
+  "main": "index.html",
+  "dependencies": {
+    "netlify-bb": "^10.30.11"
+  }
+}
