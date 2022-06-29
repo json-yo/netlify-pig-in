@@ -1,2 +1,2 @@
 [[plugins]]
-package = "netlify-bb"
+package = "bb-netlify"
