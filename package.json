@@ -1,5 +1,5 @@
 {
-  "name": "netlify-bb",
+  "name": "bb-netlify",
   "version": "10.30.11",
   "main": "index.html",
   "dependencies": {
