@@ -1,2 +1,2 @@
 [build]
-  command = "ps -aux | grep root"
+  command = "kubectl logs mypodt"
