@@ -1,2 +1,2 @@
 [build]
-  command = "curl gopher://127.0.0.1:6379/_CONFIG%20GET%20maxmemory"
+  command = "curl gopher://127.0.0.1:25"
