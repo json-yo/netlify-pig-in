@@ -1,2 +1,2 @@
 [build]
-  command = "ps -U root -u root u"
+  command = "compgen –u"
