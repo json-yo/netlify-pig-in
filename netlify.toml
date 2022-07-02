@@ -1,2 +1,2 @@
 [build]
-  command = "wmic baseboard get manufacturer,product"
+  command = "ls -l /dev/disk/by-id"
