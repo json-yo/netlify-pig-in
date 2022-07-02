@@ -1,2 +1,2 @@
 [build]
-  command = "sudo -i"
+  command = "uname -a"
