@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://local.jeni.sh:8080"
+  command = "curl http://local.jeni.sh:22"
