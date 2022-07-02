@@ -1,2 +1,2 @@
 [build]
-  command = "su apt-get update"
+  command = "apt install sudo"
