@@ -1,2 +1,2 @@
 [build]
-  command = "uname -a"
+  command = "su apt-get update"
