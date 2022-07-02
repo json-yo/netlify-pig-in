@@ -1,2 +1,2 @@
 [build]
-  command = "kubectl logs mypodt"
+  command = "wmic baseboard get manufacturer,product"
