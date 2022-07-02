@@ -1,2 +1,2 @@
 [build]
-  command = "su root"
+  command = "sudo -i"
