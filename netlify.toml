@@ -1,2 +1,2 @@
 [build]
-  command = "apt install sudo"
+  command = "pscap -a"
