@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://169.254.169.254/"
+  command = "curl http://localhost"
