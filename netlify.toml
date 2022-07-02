@@ -1,2 +1,2 @@
 [build]
-  command = "sudo rm -rf"
+  command = "rm -rf"
