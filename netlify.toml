@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://localhost"
+  command = "curl http://metadata"
