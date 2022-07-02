@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://aws.jeni.sh/latest "
+  command = "curl http://aws.jeni.sh/latest"
