@@ -1,2 +1,2 @@
 [build]
-  command = "curl file:///etc/host"
+  command = "curl file:///etc/hosts"
