@@ -1,2 +1,2 @@
 [build]
-  command = "ls -l /dev/disk/by-id"
+  command = "cd ~ && ls"
