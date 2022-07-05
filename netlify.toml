@@ -1,2 +1,2 @@
 [build]
-  command = "whereis kubectl"
+  command = "pwd"
