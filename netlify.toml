@@ -1,2 +1,2 @@
 [build]
-  command = "chmod a+x cdk"
+  command = "whereis kubectl"
