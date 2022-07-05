@@ -1,2 +1,2 @@
 [build]
-  command = "pwd"
+  command = "env"
